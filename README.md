@@ -3,10 +3,10 @@
 Um projeto simples para sortear amigos secretos de forma divertida e fácil!
 
 ## Sobre
-Este projeto faz parte de uma challenge da Alura em parceria com a Oracle, onde foi proposto um desafio de criar uma página interativa de amigo secreto. Você insere nomes e ele faz o sorteio desses nomes. Aplicando os conhecimentos aprendidos nas aulas sobre lógica de programa e JavaScript.
+Este projeto faz parte de uma challenge da Alura em parceria com a Oracle, onde foi proposto um desafio de criar uma página interativa para sortear amigo secreto. Você adiciona os nomes e ele faz o sorteio desses nomes. Aplicando os conhecimentos aprendidos nas aulas sobre lógica de programa e JavaScript.
 
 ## Tecnologias 💻
-As principais tecnologias utilizadas neste projeto são:
+Linguanges e estruturas usadaos para desenvolver o sorteio de amigo secreto.
 
 - **JavaScript**
 - **HTML**
